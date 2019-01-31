@@ -590,11 +590,3 @@ for i, icon in enumerate(icons):
 plt.legend(['YES', 'NO'])
 plt.xlabel('PH')
 plt.ylabel('BRIX')
-
-"""# Referencias
-
-* Murphy, K. P. (2013). Machine learning: a probabilistic perspective. Cambridge, Mass.: MIT Press.
-* Sugiyama, M. (2016). Introduction to statistical machine learning. Waltham, Ma.: Morgan Kaufmann, Elsevier.
-* Wittenauer, J. (2016, October 16). Machine Learning Exercises In Python, Part 3. Retrieved July 27, 2017, from http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-3/
-* Logistic regression with Python. (2016, August 26). Retrieved July 27, 2017, from http://librimind.com/2015/07/logistic-regression-with-python/
-"""
