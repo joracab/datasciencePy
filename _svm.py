@@ -712,12 +712,5 @@ Los ejercicios presentados en este notebook poseen datos de baja dimensionalidad
 
 <br>
 <font size="4">
-<p>
-## Referencias
-- Graphic showing the maximum separating hyperplane and the margin’ by Cyc available at https://upload.wikimedia.org/wikipedia/commons/2/2a/Svm_max_sep_hyperplane_with_margin.png under a Creative Commons Attribution 2.0. 
-- Linear Support Vector Classification. (2015, May 11). Retrieved August 2, 2017, from http://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC
-- Shawe-Taylor, John & Cristianini, Nello (2004). 3.4 Kernel construction. In Kernel Methods for Pattern Analysis. Cambridge University Press.
-- Gunn, S.R. (1998, May 10) Support vector machines for classification and regression. Technical Report, School of Electronics and Computer Science, University of Southampton. Retrieved August 2, 2017, from http://users.ecs.soton.ac.uk/srg/publications/pdf/SVM.pdf
-- C-Support Vector Classification. (2015, May 11). Retrieved August 3, 2017, from http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC
-"""
+
 
